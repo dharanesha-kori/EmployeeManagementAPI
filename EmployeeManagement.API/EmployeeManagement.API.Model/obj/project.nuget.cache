@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXqhG5sP0tdPaA604/wbmKEXW9i5q4XmDqGx8BjqdPORn7oFf1+JWqGVO3SZg9WH8WXPqMfxIrX90x+cAbq9JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhara\\Documents\\repo\\EmployeeManagementAPI\\EmployeeManagement.API\\EmployeeManagement.API.Model\\EmployeeManagement.API.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dhara\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dhara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
